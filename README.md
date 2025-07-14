@@ -7,3 +7,11 @@ Automatic database creation and migrations are supported and handled on applicat
 The frontend is implemented using Razor Pages.
 
 The original test task is included in the project repository.
+
+Environment variables for mariadb:
+
+      "MYSQL_ROOT_PASSWORD=1234",
+      
+			"MYSQL_USER=user",
+   
+			"MYSQL_PASSWORD=userpass"
